@@ -13,4 +13,4 @@ Dans le mode "IA vs Joueur" il est possible de jouer en partie :
 
 Afin d'y jouer, accédez à l'__exécutable__ Morpion.exe trouvable comme suit :
 
-*Morpion/bin/Debug/Morpion.exe*
+*bin/Debug/Morpion.exe*
