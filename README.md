@@ -1,4 +1,4 @@
-**Projet réalisé dans le cadre d'un TP.**
+**Projet réalisé dans le cadre d'un TP, 1ère année de BTS SIO.**
 **Utilisation du langage C# - Windows Form.**
 
 ```PRESENTATION```
